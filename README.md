@@ -21,7 +21,6 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
   * Official website: https://www.phoenixframework.org/
   * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Deployment Guide: https://hexdocs.pm/phoenix/deployment.html
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
