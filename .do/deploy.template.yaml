@@ -8,6 +8,5 @@ spec:
       repo_clone_url: "https://github.com/wojtekmach/phoenix_example.git"
     envs:
     - key: "SECRET_KEY_BASE"
-      type: "SECRET"
     - key: "POOL_SIZE"
       value: "10"
