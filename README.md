@@ -9,7 +9,19 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
+## Deployment
+
+### Heroku
+
+[Diff](https://github.com/wojtekmach/phoenix_example/compare/heroku)
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wojtekmach/phoenix_example/tree/heroku)
+
+### Digital Ocean
+
+[Diff](https://github.com/wojtekmach/phoenix_example/compare/digitalocean)
+
+[![Deploy to DO](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/wojtekmach/phoenix_example/tree/digitalocean)
 
 ## Learn more
 
