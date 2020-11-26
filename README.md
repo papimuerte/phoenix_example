@@ -23,6 +23,8 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
 [![Deploy to DigitalOcean](https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/wojtekmach/phoenix_example/tree/digitalocean)
 
+Use `mix phx.gen.secret` to generate a secret appropriate for the `SECRET_KEY_BASE` environment variable.
+
 ## Learn more
 
   * Official website: https://www.phoenixframework.org/
